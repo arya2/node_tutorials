@@ -1,0 +1,23 @@
+{
+  "name": "node_tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncIO.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arya2/node_tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arya2/node_tutorials/issues"
+  },
+  "homepage": "https://github.com/arya2/node_tutorials#readme",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "strftime": "^0.9.2"
+  }
+}
